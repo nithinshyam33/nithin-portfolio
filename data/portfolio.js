@@ -12,7 +12,7 @@ export const portfolioData = {
     instagram: "https://instagram.com/joseph_h4x",
   },
 
-  about: `I am a cybersecurity enthusiast and third-year cybersecurity student focused on building practical skills in Security Operations and threat detection. I have completed the Google Cybersecurity Professional Certificate and gained hands-on exposure through cybersecurity internship and job simulation experiences, including programs with Deloitte and EDU TANTR.
+  about: `I am a cybersecurity enthusiast and final-year cybersecurity student focused on building practical skills in Security Operations and threat detection. I have completed the Google Cybersecurity Professional Certificate and gained hands-on exposure through cybersecurity internship and job simulation experiences, including programs with Deloitte and EDU TANTR.
 
 My technical foundation includes Linux, SQL, Python basics, SIEM concepts, log analysis, and network security fundamentals. I am particularly interested in Security Operations Center (SOC) roles where I can analyze security events, investigate suspicious activities, and help organizations detect and respond to cyber threats.
 
